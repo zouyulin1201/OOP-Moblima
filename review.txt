@@ -1,0 +1,11 @@
+0|Andy|5|Great movie!|
+0|Betty|4|Great movie!|
+0|Sam|3|Normal movie!|
+0|Jim|2|Normal movie!|
+0|Anthony|1|Bad movie!|
+1|Tim|1|Bad movie!|
+1|Andy|5|Great movie!|
+1|Philip|4|Great movie!|
+1|Lucy|3|Normal movie!|
+1|Jane|2|Normal movie!|
+1|Mark|1|Bad movie!|
